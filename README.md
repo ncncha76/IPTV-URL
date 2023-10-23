@@ -29,7 +29,7 @@
         </h4>
         <p dir="auto"><code>https://goodiptv.vercel.app/huyayqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;虎牙一起看</p>
         <p dir="auto"><code>https://goodiptv.vercel.app/douyuyqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;斗鱼一起看</p>
-        <p dir="auto"><code>https://goodiptv.vercel.app/yylunbo.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YY轮播
+        <p dir="auto"><code>https://goodiptv.vercel.app/yylunbo.m3u?url=https://myvercel-iota.vercel.app</code>&nbsp;&nbsp;&nbsp;&nbsp;YY轮播
         </p>
         <p dir="auto"><code>https://www.goodiptv.club/bililive.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BiliBili直播
         </p>
