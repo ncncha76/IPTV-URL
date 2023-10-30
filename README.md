@@ -48,7 +48,7 @@
         <p dir="auto"><code>敬请期待</code>&nbsp;&nbsp;&nbsp;&nbsp;请期待
         </p>
         
-<h4 dir="auto"><strong><a id="user-content-范明明" class="anchor" aria-hidden="true" href="#范明明">
+<h4 dir="auto"><style=＂font-weight:bolder＂><a id="user-content-范明明" class="anchor" aria-hidden="true" href="#范明明">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
                  aria-hidden="true">
                 <path fill-rule="evenodd"
