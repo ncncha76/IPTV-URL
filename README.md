@@ -33,7 +33,7 @@
         </p>
         <p dir="auto"><code>https://www.goodiptv.club/bililive.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BiliBili直播
         </p>
-<--        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/newbestv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BESTV源
+<!--        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/newbestv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BESTV源
         </p>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;GHYX源
         </p> 
