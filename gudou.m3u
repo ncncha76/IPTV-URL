@@ -95,6 +95,8 @@ http://192.168.10.1:5678/gudou.php?id=heilongjiangHD_7000
 http://192.168.10.1:5678/gudou.php?id=1451_4500
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://192.168.10.1:5678/gudou.php?id=1452_4500
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://192.168.10.1:5678/gudou.php?id=1462_4500
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
 http://192.168.10.1:5678/gudou.php?id=dongnanweishiHD
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
