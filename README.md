@@ -37,13 +37,15 @@
         </p>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;GHYX源
         </p> -->
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;MSP源
-        </p>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;CQYX源
         </p>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YQGD源
         </p>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;4K/8K源
+        </p>
+        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;HBGD源
+        </p>
+        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;MSP源
         </p>
         <p dir="auto"><code>敬请期待</code>&nbsp;&nbsp;&nbsp;&nbsp;请期待
         </p>
