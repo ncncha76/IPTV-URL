@@ -1,0 +1,9 @@
+person:      Weiss grams
+nic-hdl:     WG697-FREE
+address:     新加坡
+address:     新加坡
+address:     3 Temasek Blvd, #B1-154 155/156, Singapore 038983
+address:     Singapore
+phone:       +65-99704668
+e-mail:      ncncha7699@proton.me
+changed:     2023-12-16 05:27:37
